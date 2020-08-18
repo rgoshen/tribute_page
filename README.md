@@ -1,5 +1,5 @@
 # tribute_page
-This is my first tribute web page.
+This is my first tribute web page.  This uses HTML and CSS.
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
